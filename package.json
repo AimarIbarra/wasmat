@@ -1,0 +1,26 @@
+{
+  "name": "wasmat",
+  "version": "1.0.0",
+  "description": "Webassembly powered matrix operations",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AimarIbarra/wasmat.git"
+  },
+  "keywords": [
+    "WebAssembly",
+    "matrix"
+  ],
+  "author": "Aimar Ibarra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AimarIbarra/wasmat/issues"
+  },
+  "homepage": "https://github.com/AimarIbarra/wasmat#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
